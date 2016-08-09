@@ -1,5 +1,3 @@
 pages:
-- [index.md]
-- [Quick_Start.md]
-- [GR_File_Manager.md]
-- [Web_File_Uploader.md]
+- Home: 'index.md'
+- Quick Start: 'Quick_Start.md'
