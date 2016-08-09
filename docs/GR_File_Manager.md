@@ -65,3 +65,27 @@
  - Canceled : 파일 업로드를 사용자가 취소한 상태입니다.
  - File upload fail : 알 수 없는 이유로 파일 업로드를 실패한 상태입니다., 해당 파일을 다시 업로드 할 수 있습니다.
  - File duplication error : 같은 upload folder에 같은 파일이 업로드 된 상태입니다. 
+
+#### 별첨2) 업로드 가능한 파일 유형
+  - zip
+  - gz
+  - bz
+  - bz2
+  - fa
+  - fasta
+  - gtf
+  - gff
+  - gff3
+  - bed
+  - fq
+  - fastq
+  - xls
+  - vcf
+  - xlsx
+  - bcf
+  - gvcf
+  - bam
+  - sam
+  - cram
+  - diff
+  - fpkm_tracking

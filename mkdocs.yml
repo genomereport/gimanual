@@ -3,3 +3,5 @@ site_name: GiManaul
 pages:
 - Home: 'index.md'
 - Quick Start: 'Quick_Start.md'
+- GR_File_Manager: 'GR_File_Manager.md'
+- Quick Web_File_Uploader: 'Web_File_Uploader.md'

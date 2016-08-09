@@ -5,7 +5,7 @@
 
 #### 메뉴 위치
     - Resource >> Sample >>  파일업로드 
-![화면](http://www.genome-report.com/assets/images/manual/screen_5.jpg)     
+![화면](images/screen_5.jpg)     
    
 #### File Upload 방법 및 화면 설명
 - 작업 방법  
@@ -19,7 +19,7 @@
     - Start : 개별 파일을 업로드 하는 기능입니다.
     - Cancel : 개별 파일 업로드 작업을 취소하는 기능입니다.
     
-![화면](http://www.genome-report.com/assets/images/manual/screen_6.jpg)
+![화면](images/screen_6.jpg)
 
 #### 업로드 가능한 파일 유형
   - zip

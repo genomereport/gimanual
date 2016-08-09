@@ -10,7 +10,7 @@
 
 
 ### 회원가입
-1.  Gerome Report 회원 가입[https://omics.genome-report.com/member](https://omics.genome-report.com/member) 페이지를 방문합니다.
+1.  Gerome Report 회원 가입[https://omics.genome-report.com/member](https://omics.genome-report.com/member) 사이트를 방문합니다.
 1. 필수 항목을 입력하고 회원 가입버튼을 클릭합니다.
 1. 회원 가입 승인 메일을 열니다. 승인 URL을 클릭합니다.
 1. 회원 가입 완료
@@ -38,7 +38,7 @@
 
 ###  sample 생성
 
-1. 먼저 Gerome Report[https://omics.genome-report.com/member](https://omics.genome-report.com/member) 사이트에서 로그인을 합니다.
+1. 먼저 Gerome Report[https://omics.genome-report.com/member](https://omics.genome-report.com/member) 페이지에서 로그인을 합니다.
 1. Sample [https://omics.genome-report.com/resource](https://omics.genome-report.com/resource)페이지로 이동합니다.
 1. GRUploader 프로그램에서 등록한 sample 파일이 Sample 페이지  트리에서 확인할 수 있습니다.
     1. *** 파일을 체크하고 포워드  버튼을 클릭합니다.
@@ -55,7 +55,7 @@
 
 ### 프로젝트(분석) 요청 
  1. 로그인 상태가 아니면 로그인을 합니다. 
- 2. ANALYSIS [https://omics.genome-report.com/analysis](https://omics.genome-report.com/analysis)사이트로 이동합니다.
+ 2. ANALYSIS [https://omics.genome-report.com/analysis](https://omics.genome-report.com/analysis)페이지로 이동합니다.
  3. *** 파이프라인을 선택합니다.
  4. 분석 요청서 작성
     1. 분석정보의 제목과 설명을 입력합니다.
