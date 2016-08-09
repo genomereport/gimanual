@@ -1,3 +1,5 @@
+site_name: GiManaul
+
 pages:
 - Home: 'index.md'
 - Quick Start: 'Quick_Start.md'

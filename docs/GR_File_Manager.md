@@ -1,7 +1,7 @@
 
 #### 선행작업
   - 회원가입.
-     - 사이트 주소는 [https://omics.genome-report.com/member](https://omics.genome-report.com/member)
+     - 사이트 주소는 [https://omics.genome-report.com/member](https://omics.genome-report.com/member) ...
   - GRUploader 다운로드
      - 다운로드 경로는 [http://www.genome-report.com/download](http://www.genome-report.com/download)
      - 자신의 OS 버전에 맞게 다운로드한다. 왼쪽 DOWNLOAD 버튼은 윈동우용, 오른쪽 DOWNLOAD 버튼은 OS X 용입니다.
