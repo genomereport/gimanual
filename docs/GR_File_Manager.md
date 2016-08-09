@@ -1,6 +1,6 @@
 
 #### 선행작업
-  - 회원가입
+  - 회원가입.
      - 사이트 주소는 [https://omics.genome-report.com/member](https://omics.genome-report.com/member)
   - GRUploader 다운로드
      - 다운로드 경로는 [http://www.genome-report.com/download](http://www.genome-report.com/download)
@@ -38,11 +38,11 @@
 -  Help > Download page 메뉴를 통해서 최신 버전으로 업그레이드 할 수 있습니다.
 - 업그레이드는 프로그램 성능향상을 위해 수시로 진행됩니다.
 - 왼쪽 DOWNLOAD 버튼은 윈동우용, 오른쪽 DOWNLOAD 버튼은 OS X 용입니다.
-![화면](http://www.genome-report.com/assets/images/manual/screen_3.jpg)
+![화면](images/screen_3.jpg)
  
 #### GRUploader 버전 확인
 - Help > About 메뉴에 현재 버전이 있습니다.
-![화면](http://www.genome-report.com/assets/images/manual/screen_4.jpg)
+![화면](images/screen_4.jpg)
 
 
 #### GRUploader 주요 기능
