@@ -1,7 +1,7 @@
 
 #### 선행작업
   - 회원가입
-     - 사이트 주소는 [https://omics.genome-report.com/member](https://omics.genome-report.com/member)  입니다.
+     - 사이트 주소는 [https://omics.genome-report.com/member](https://omics.genome-report.com/member)
 
 #### 메뉴 위치
     - Resource >> Sample >>  파일업로드 
