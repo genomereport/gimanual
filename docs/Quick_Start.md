@@ -96,12 +96,14 @@
     ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/pipeline_sample_choose.jpg)
     3. 선택된 샘플이 테이블 형식으로 보여집니다.
       ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/analysis_sample.jpg)
-    5. 참조유전체, 기본선택사항과 고급선택사항은 수정을 하지 않습니다.
+    5. 참조유전체는 "Horse(EquCab2/Ensembl 84)"를 선택합니다.
+     ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/pipeline_reference.jpg)
+    6. 기본선택사항과 고급선택사항은 수정을 하지 않습니다.
     6. 실험 디자인에서 Control 셀렉트 박스에서 "Ctrl01" SAMPLE을 선택합니다.
     7. 실험 디자인에서 Experimental 셀렉트 박스에서 "Exp01" SAMPLE을 하나 선택합니다.
     ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/pipeline_design.jpg)
     5. 승인 버튼을 클릭합니다.
-
+    ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/analysis_full_screen.jpg)
 
  ````
  [TIP]분석 요청이 정상적으로 처리되면 프로젝트 페이지로 자동이동 합니다.
