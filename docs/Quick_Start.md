@@ -95,7 +95,7 @@
            [TIP]샘플명은 파일명을 이용하여 프로그램에서 부여합니다. 예)Ctrl01로 합니다.
         ````
 
-   ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/sample_screen_1.png)
+   ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/sample_screen_1.jpg)
 
 5. 마법사를 통한 sample 생성
    3. 2016>>08>>24-01 폴더에서 Exp01_1.fq.gz, Exp01_2.fq.gz 파일을 체크합니다.
