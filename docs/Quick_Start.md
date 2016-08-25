@@ -129,15 +129,14 @@
     ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/pipeline_design.jpg)
     5. 승인 버튼을 클릭합니다.
 
-    ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/analysis_full_screen.jpg)
+    ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/analysis_full_screen.png)
 
  ````
  [TIP]분석 요청이 정상적으로 처리되면 프로젝트 페이지로 자동이동 합니다.
  [TIP]프로젝트가 완료되면 회원 가입시 등록된 메일주소로 프로젝트 진행 상황이 메일이 발송됩니다.
  ````
 
-
 ### 프로젝트 보고서 열람
 1. 로그인 상태가 아니면 로그인을 합니다.
 2. PRJECT [https://omics.genome-report.com/project](https://omics.genome-report.com/project)페이지로 이동합니다.
-3.보고 싶은 프로젝트의 "제목"을 클릭합니다. 프로젝트 보고서 페이지로 이동합니다.
+3. "유전자 발현량 및 발현량 차이 분석" 제목의  프로젝트를 클릭합니다. 프로젝트 보고서 페이지로 이동합니다.
