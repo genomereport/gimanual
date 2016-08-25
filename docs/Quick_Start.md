@@ -13,13 +13,16 @@
 1.  Gerome Report 회원 가입[https://omics.genome-report.com/member](https://omics.genome-report.com/member) 사이트를 방문합니다.
 1. 아래 항목을 입력하고 회원 가입 버튼을 클릭합니다.
     - 로그인아이디 : 이메일 입니다.
-    - 이름 :
-    - 성   :
+    - 이름  : 고객의 이름 (예: 길동)
+    - 성   : 고객의 성 (예: 홍)
     - 생년월 : 년월(YYYY-MM)만 입력합니다.
     - 패스워드 : 영문자, 숫자, 특수문자중 두개 이상의 조합으로 8~20자리입니다.
     - 패스워드 확인 :
 1. 회원가입 확인페이지의 안내문을 읽고 승인 버튼을 클릭합니다. 이때 회원 가입 승인 메일이 발송됩니다.
-1. 회원 가입 승인 메일을 열니다. 승인 URL을 클릭합니다. 회원 가입 승인 페이지로 이동합니다.
+1. 회원 가입 승인
+   1. 메일을 열니다.
+   2. 메일 본문에서 승인 URL을 클릭합니다.
+   3. 회원 가입 승인 페이지가 보여집니다.
 
 ### GRUploader 다운로드
 1. 다운로드 [http://www.genome-report.com/download](http://www.genome-report.com/download) 사이트를 방문합니다.
@@ -51,9 +54,14 @@
 ### 해독 파일 업로드
 1. 다운로드 받은 GRUploader를 실행합니다. 로그인 창이 나타납니다.
 2. 로그인을 합니다.
-3. 다운로드 받은 해독 파일을 업로드합니다.
+3. 해독 파일을 업로드
    1. 왼쪽상단에서 다운로드 받은 폴더로 이동합니다.
-   1. 왼쪽하단에서 파일을 선택하고 오른쪽으로 드래그앤드랍을 합니다.
+   1. 왼쪽하단에서 아래 4개의 파일을 선택하고 오른쪽으로 드래그앤드랍 합니다.
+      * Ctrl01_1.fq.gz
+      * Ctrl01_2.fq.gz
+      * Exp01_1.fq.gz
+      * Exp01_2.fq.gz
+
 
    ````
      [TIP]"로그인 창"을 닫은 경우, GRUploader >> 로그인 메뉴를 클릭합니다.
@@ -68,12 +76,12 @@
 
 ###  SAMPLE 생성
 1. 먼저 Gerome Report[https://omics.genome-report.com/member](https://omics.genome-report.com/member) 페이지에서 로그인을 합니다.
-1. 로그인후, 왼쪽 매뉴에서 "RESOURCE" 메뉴를 클릭합니다.
-Sample [https://omics.genome-report.com/resource](https://omics.genome-report.com/resource)페이지로 이동합니다.
-1. 해독파일 위치
-    GRUploader 프로그램에서 등록한 해독 파일이 Sample 페이지 트리에서 확인할 수 있습니다.
-   업로드한 해독 파일은  YYYY>> MM>>dd-로그인차수 (예:2016>>08>>24-01)에 있습니다.
-   ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/sample_screen.jpg)
+1. 로그인후, 왼쪽 매뉴에서 ["RESOURCE" 메뉴](https://omics.genome-report.com/resource)를 클릭합니다.
+2. Resource 페이지에서 "Sample" 메뉴를 클릭합니다.
+
+     ````
+     [TIP]GRUploader 프로그램에서 등록한 해독 파일은  YYYY>> MM>>dd-로그인차수 (예:2016>>08>>24-01)에 있습니다.
+     ````
 4. 수작업으로 sample 생성
    1. 2016>>08>>24-01 폴더에서 Ctrl01_1.fq.gz 파일을 선택(check) 합니다.
    2. 트리위의 버튼 중에서 포워드 버튼을 클릭합니다.
