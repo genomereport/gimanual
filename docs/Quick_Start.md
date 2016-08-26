@@ -25,14 +25,14 @@
    3. 회원 가입 승인 페이지가 보여집니다.
 
 ### GRUploader 다운로드
-1. 다운로드 [http://www.genome-report.com/down_files](http://www.genome-report.com/down_files) 사이트를 방문합니다.
+1. 다운로드 [http://www.genome-report.com/down_file](http://www.genome-report.com/down_file) 사이트를 방문합니다.
 2. 윈도우는 왼쪽 버튼을 클릭합니다. OSX와 리눅스 사용자는 오른쪽 버튼을 클릭합니다.
 ![화면](http://www.genome-report.com/assets/images/manual/screen_3.jpg)
 
 
 ### 해독 파일 다운로드
 
-1. SAMPLE FILE DOWNLOAD[https://omics.genome-report.com/down_files/sample](https://omics.genome-report.com/down_files/sample) 페이지를 방문합니다.
+1. SAMPLE FILE DOWNLOAD[https://omics.genome-report.com/down_file/sample](https://omics.genome-report.com/down_file/sample) 페이지를 방문합니다.
 
     ````
     [Tip] 로그인이 되어 있지 않으면 로그인 페이지로 이동합니다.
