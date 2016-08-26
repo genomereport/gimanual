@@ -32,11 +32,7 @@
 
 ### 해독 파일 다운로드
 
-1. <a href="https://omics.genome-report.com/down_file/sample" target="_blank">SAMPLE FILE DOWNLOAD </a> 페이지를 방문합니다.
-
-    ````
-    [Tip] 로그인이 되어 있지 않으면 로그인 페이지로 이동합니다.
-    ````
+1. <a href="https://omics.genome-report.com/member" target="_blank">Gerome Report</a> 사이트 로그인 후, <a href="https://omics.genome-report.com/down_file/sample" target="_blank">SAMPLE FILE DOWNLOAD </a> 페이지를 방문합니다.
 
 3. 아래 4개의 해독 파일을 다운로드 합니다.
    1. Ctrl01_1.fq.gz
@@ -75,8 +71,7 @@
 
 
 ###  SAMPLE 생성
-1. 먼저 <a href="https://omics.genome-report.com/member" target="_blank">Gerome Report 사이트<a>에서 로그인을 합니다.
-1. 로그인후, 왼쪽 매뉴에서 <a href="https://omics.genome-report.com/resource" target="_blank">RESOURCE</a> 메뉴를 클릭합니다.
+1. <a href="https://omics.genome-report.com/member" target="_blank">Gerome Report</a> 사이트 로그인 후, 왼쪽 매뉴에서 <a href="https://omics.genome-report.com/resource" target="_blank">RESOURCE</a> 메뉴를 클릭합니다.
 2. Resource 페이지에서 "Sample" 메뉴를 클릭합니다.
 
      ````
@@ -110,7 +105,7 @@
 
 
 ### 프로젝트(분석) 요청
- 2. 왼쪽 매뉴에서 ANALYSIS [https://omics.genome-report.com/analysis](https://omics.genome-report.com/analysis)를 선택합니다. 사용 가능한 파이프라인 목록이 보여집니다.
+ 2. 왼쪽 매뉴에서 <a href="https://omics.genome-report.com/analysis" target="_blank"> ANALYSIS</a>를 선택합니다. 사용 가능한 파이프라인 목록이 보여집니다.
 
  3. "유전자 발현량 및 발현량 차이 분석 (Tuxedo Protocol)" 파이프라인을 클릭합니다.
  ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/analysis_pipeline.jpg)
@@ -138,5 +133,5 @@
 
 ### 프로젝트 보고서 열람
 1. 로그인 상태가 아니면 로그인을 합니다.
-2. PRJECT [https://omics.genome-report.com/project](https://omics.genome-report.com/project)페이지로 이동합니다.
+2. <a href="https://omics.genome-report.com/project" target="_blank"> PRJECT </a>페이지로 이동합니다.
 3. "유전자 발현량 및 발현량 차이 분석" 제목의  프로젝트를 클릭합니다. 프로젝트 보고서 페이지로 이동합니다.
