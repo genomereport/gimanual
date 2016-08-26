@@ -51,13 +51,12 @@
 1. 다운로드 받은 GRUploader를 실행합니다. 로그인 창이 나타납니다.
 2. 로그인을 합니다.
 3. 해독 파일을 업로드
-   1. 왼쪽상단에서 다운로드 받은 폴더로 이동합니다.
-   1. 왼쪽하단에서 아래 4개의 파일을 선택하고 오른쪽으로 드래그앤드랍 합니다.
+   3.1. 왼쪽상단에서 다운로드 받은 폴더로 이동합니다.
+   3.2. 왼쪽하단에서 아래 4개의 파일을 선택하고 오른쪽으로 드래그앤드랍 합니다.
       * Ctrl01_1.fq.gz
       * Ctrl01_2.fq.gz
       * Exp01_1.fq.gz
       * Exp01_2.fq.gz
-
 
    ````
    [TIP]"로그인 창"을 닫은 경우, GRUploader >> 로그인 메뉴를 클릭합니다.
@@ -67,7 +66,6 @@
 
 1. 오른쪽 테이블에서 업로드한 파일들의 "status"가 모두 'Compleated'가 되면 업로드가 완료입니다.
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/gruploader_screen_1.jpg)
-
 
 
 ###  SAMPLE 생성
