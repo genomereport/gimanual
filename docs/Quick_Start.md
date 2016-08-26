@@ -10,7 +10,7 @@
 
 
 ### 회원가입
-1.  Gerome Report 회원 가입[https://omics.genome-report.com/member](https://omics.genome-report.com/member) 사이트를 방문합니다.
+1. Gerome Report  <a href="https://omics.genome-report.com/member" target="_blank"> 회원 가입</a> 사이트를 방문합니다.
 1. 아래 항목을 입력하고 회원 가입 버튼을 클릭합니다.
     - 로그인아이디 : 이메일 입니다.
     - 이름  : 고객의 이름 (예: 길동)
@@ -25,14 +25,14 @@
    3. 회원 가입 승인 페이지가 보여집니다.
 
 ### GRUploader 다운로드
-1. <a href="http://www.genome-report.com/down_file" target="_blank"> GRUploader 다운로드</a> 페이지로 방문합니다.pl
+1. <a href="http://www.genome-report.com/down_file" target="_blank"> GRUploader 다운로드</a> 페이지로 방문합니다.
 2. 윈도우는 왼쪽 버튼을 클릭합니다. OSX와 리눅스 사용자는 오른쪽 버튼을 클릭합니다.
 ![화면](http://www.genome-report.com/assets/images/manual/screen_3.jpg)
 
 
 ### 해독 파일 다운로드
 
-1. SAMPLE FILE DOWNLOAD[https://omics.genome-report.com/down_file/sample](https://omics.genome-report.com/down_file/sample) 페이지를 방문합니다.
+1. <a href="https://omics.genome-report.com/down_file/sample" target="_blank">SAMPLE FILE DOWNLOAD </a> 페이지를 방문합니다.
 
     ````
     [Tip] 로그인이 되어 있지 않으면 로그인 페이지로 이동합니다.
@@ -75,8 +75,8 @@
 
 
 ###  SAMPLE 생성
-1. 먼저 Gerome Report[https://omics.genome-report.com/member](https://omics.genome-report.com/member) 페이지에서 로그인을 합니다.
-1. 로그인후, 왼쪽 매뉴에서 ["RESOURCE" 메뉴](https://omics.genome-report.com/resource)를 클릭합니다.
+1. 먼저 <a href="https://omics.genome-report.com/member" target="_blank">Gerome Report 사이트<a>에서 로그인을 합니다.
+1. 로그인후, 왼쪽 매뉴에서 <a href="https://omics.genome-report.com/resource" target="_blank">RESOURCE</a> 메뉴를 클릭합니다.
 2. Resource 페이지에서 "Sample" 메뉴를 클릭합니다.
 
      ````
