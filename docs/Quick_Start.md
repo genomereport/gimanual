@@ -1,16 +1,15 @@
-### GenomeReport Tutorial
+### Genome report Tutorial
 
 1. 회원가입
 2. GRUploader 다운로드
 3. 해독 파일 다운로드
-3. 해독 파일 업로드
-4. Sampel 생성
-5. 프로젝트(분석) 요청
-6. 프로젝트 보고서 열람
+4. 해독 파일 업로드
+5. Sampel 생성
+6. 프로젝트(분석) 요청
+7. 프로젝트 보고서 열람
 
-
-### 회원가입
-1. Gerome Report  <a href="https://omics.genome-report.com/member" target="_blank"> 회원 가입</a> 사이트를 방문합니다.
+### 1. 회원가입
+1. Genome report  <a href="https://omics.genome-report.com/member" target="_blank"> 회원 가입</a> 사이트를 방문합니다.
 1. 아래 항목을 입력하고 회원 가입 버튼을 클릭합니다.
     - 로그인아이디 : 이메일 입니다.
     - 이름  : 고객의 이름 (예: 길동)
@@ -24,15 +23,15 @@
    2. 메일 본문에서 승인 URL을 클릭합니다.
    3. 회원 가입 승인 페이지가 보여집니다.
 
-### GRUploader 다운로드
+### 2. GRUploader 다운로드
 1. <a href="http://www.genome-report.com/down_file" target="_blank"> GRUploader 다운로드</a> 페이지로 방문합니다.
 2. 윈도우는 왼쪽 버튼을 클릭합니다. OSX와 리눅스 사용자는 오른쪽 버튼을 클릭합니다.
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/screen_3.jpg)
 
 
-### 해독 파일 다운로드
+### 3. 해독 파일 다운로드
 
-1. <a href="https://omics.genome-report.com/member" target="_blank">Gerome Report</a> 사이트 로그인 후, <a href="https://omics.genome-report.com/down_file/sample" target="_blank">SAMPLE FILE DOWNLOAD </a> 페이지를 방문합니다.
+1. <a href="https://omics.genome-report.com/member" target="_blank">Genome report</a> 사이트 로그인 후, <a href="https://omics.genome-report.com/down_file/sample" target="_blank">SAMPLE FILE DOWNLOAD </a> 페이지를 방문합니다.
 
 3. 아래 4개의 해독 파일을 다운로드 합니다.
    1. Ctrl01_1.fq.gz
@@ -47,12 +46,12 @@
 
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/tutorial_file_download.jpg)
 
-### 해독 파일 업로드
+### 4. 해독 파일 업로드
 1. 다운로드 받은 GRUploader를 실행합니다. 로그인 창이 나타납니다.
 2. 로그인을 합니다.
 3. 해독 파일을 업로드
-   3.1. 왼쪽상단에서 다운로드 받은 폴더로 이동합니다.
-   3.2. 왼쪽하단에서 아래 4개의 파일을 선택하고 오른쪽으로 드래그앤드랍 합니다.
+   1. 왼쪽상단에서 다운로드 받은 폴더로 이동합니다.
+   2. 왼쪽하단에서 아래 4개의 파일을 선택하고 오른쪽으로 드래그앤드랍 합니다.
       * Ctrl01_1.fq.gz
       * Ctrl01_2.fq.gz
       * Exp01_1.fq.gz
@@ -68,14 +67,14 @@
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/gruploader_screen_1.jpg)
 
 
-###  SAMPLE 생성
-1. <a href="https://omics.genome-report.com/member" target="_blank">Gerome Report</a> 사이트 로그인 후, 왼쪽 매뉴에서 <a href="https://omics.genome-report.com/resource" target="_blank">RESOURCE</a> 메뉴를 클릭합니다.
+### 4. SAMPLE 생성
+1. <a href="https://omics.genome-report.com/member" target="_blank">Genome report</a> 사이트 로그인 후, 왼쪽 매뉴에서 <a href="https://omics.genome-report.com/resource" target="_blank">RESOURCE</a> 메뉴를 클릭합니다.
 2. Resource 페이지에서 "Sample" 메뉴를 클릭합니다.
 
      ````
      [TIP]GRUploader 프로그램에서 등록한 해독 파일은  YYYY>> MM>>dd-로그인차수 (예:2016>>08>>24-01)에 있습니다.
      ````
-4. 수작업으로 sample 생성
+3. 수작업으로 sample 생성
    1. 2016>>08>>24-01 폴더에서 Ctrl01_1.fq.gz 파일을 선택(check) 합니다.
    2. 트리위의 버튼 중에서 포워드 버튼을 클릭합니다.
    3. 2016>>08>>24-01 폴더에서 Ctrl01_2.fq.gz 파일을 선택(check) 합니다.
@@ -102,15 +101,15 @@
       ````
 
 
-### 프로젝트(분석) 요청
- 2. 왼쪽 매뉴에서 <a href="https://omics.genome-report.com/analysis" target="_blank"> ANALYSIS</a>를 선택합니다. 사용 가능한 파이프라인 목록이 보여집니다.
+### 6. 프로젝트(분석) 요청
+ 1. 왼쪽 매뉴에서 <a href="https://omics.genome-report.com/analysis" target="_blank"> ANALYSIS</a>를 선택합니다. 사용 가능한 파이프라인 목록이 보여집니다.
 
- 3. "유전자 발현량 및 발현량 차이 분석 (Tuxedo Protocol)" 파이프라인을 클릭합니다.
+ 2. "유전자 발현량 및 발현량 차이 분석 (Tuxedo Protocol)" 파이프라인을 클릭합니다.
  ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/analysis_pipeline.jpg)
- 4. 분석 요청서 작성
+ 3. 분석 요청서 작성
     1. 분석정보의 제목과 설명을 입력합니다.
       ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/pipeline_title.jpg)
-    2. 샘플 항목에서 샘플 버튼을 클릭합니다. 팝업창에서  "Ctrl01, Exp01" 샘플을 선택합니다.
+    2. 샘플 항목에서 샘플 선택 버튼을 클릭합니다. 팝업창에서  "Ctrl01, Exp01" 샘플을 선택합니다.
     ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/pipeline_sample_choose.jpg)
     3. 선택된 샘플이 테이블 형식으로 보여집니다.
       ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/analysis_sample.jpg)
@@ -129,7 +128,7 @@
  [TIP]프로젝트가 완료되면 회원 가입시 등록된 메일주소로 프로젝트 진행 상황이 메일이 발송됩니다.
  ````
 
-### 프로젝트 보고서 열람
+### 7. 프로젝트 보고서 열람
 1. 로그인 상태가 아니면 로그인을 합니다.
 2. <a href="https://omics.genome-report.com/project" target="_blank"> PRJECT </a>페이지로 이동합니다.
 3. "유전자 발현량 및 발현량 차이 분석" 제목의  프로젝트를 클릭합니다. 프로젝트 보고서 페이지로 이동합니다.
