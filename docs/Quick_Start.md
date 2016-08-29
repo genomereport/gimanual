@@ -34,10 +34,11 @@
 1. <a href="https://omics.genome-report.com/member" target="_blank">Genome report</a> 사이트 로그인 후, <a href="https://omics.genome-report.com/down_file/sample" target="_blank">SAMPLE FILE DOWNLOAD </a> 페이지를 방문합니다.
 
 2. 아래 4개의 해독 파일을 다운로드 합니다.
-   * Ctrl01_1.fq.gz
-   * Ctrl01_2.fq.gz
-   * Exp01_1.fq.gz
-   * Exp01_2.fq.gz
+
+   - Ctrl01_1.fq.gz
+   - Ctrl01_2.fq.gz
+   - Exp01_1.fq.gz
+   - Exp01_2.fq.gz
 
   ````
  [TIP]4개 파일 모두를 다운로드 하면 분석에 필요한 포인트를 자동으로 지급합니다. 포인트는 단 한번만 지급됩니다.
@@ -50,8 +51,8 @@
 1. 다운로드 받은 GRUploader를 실행합니다. 로그인 창이 나타납니다.
 2. 로그인을 합니다.
 3. 해독 파일을 업로드
-   1. 왼쪽상단에서 다운로드 받은 폴더로 이동합니다.
-   2. 왼쪽하단에서 아래 4개의 파일을 선택하고 오른쪽으로 드래그앤드랍 합니다.
+    1. 왼쪽상단에서 다운로드 받은 폴더로 이동합니다.
+    2. 왼쪽하단에서 아래 4개의 파일을 선택하고 오른쪽으로 드래그앤드랍 합니다.
       * Ctrl01_1.fq.gz
       * Ctrl01_2.fq.gz
       * Exp01_1.fq.gz
@@ -67,10 +68,9 @@
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/gruploader_screen_1.jpg)
 
 
-### 4. SAMPLE 생성
+### 5. SAMPLE 생성
 1. <a href="https://omics.genome-report.com/member" target="_blank">Genome report</a> 사이트 로그인 후, 왼쪽 매뉴에서 <a href="https://omics.genome-report.com/resource" target="_blank">RESOURCE</a> 메뉴를 클릭합니다.
 2. Resource 페이지에서 "Sample" 메뉴를 클릭합니다.
-
      ````
      [TIP]GRUploader 프로그램에서 등록한 해독 파일은  YYYY>> MM>>dd-로그인차수 (예:2016>>08>>24-01)에 있습니다.
      ````
@@ -84,10 +84,10 @@
    5. "샘플 목록 추가" 버튼을 클릭합니다.
    6. 샘플 목록 맨 아래에 있는 승인 버튼을 클릭합니다.
 
+    ````
+     [TIP]샘플명은 파일명을 이용하여 프로그램에서 부여합니다. 예)Ctrl01로 합니다.
+    ````
 
-        ````
-           [TIP]샘플명은 파일명을 이용하여 프로그램에서 부여합니다. 예)Ctrl01로 합니다.
-        ````
 
    ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/sample_screen_1.jpg)
 
@@ -133,4 +133,12 @@
 ### 7. 프로젝트 보고서 열람
 1. 로그인 상태가 아니면 로그인을 합니다.
 2. <a href="https://omics.genome-report.com/project" target="_blank"> PRJECT </a>페이지로 이동합니다.
-3. "유전자 발현량 및 발현량 차이 분석" 제목의  프로젝트를 클릭합니다. 프로젝트 보고서 페이지로 이동합니다.
+![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/project_screen.jpg)
+
+````
+    프로젝트의 상태가 "오류"이면  Q&A에 문의를 해주세요..
+    문의시 ID와 제목을 꼭 기재해 주세요.
+
+    프로젝트 진행 상황 수신 메일에서도  오류 프로젝트가 있으면 Q&A에 문의를 해주세요.
+````
+3. 테이블에서 "유전자 발현량 및 발현량 차이 분석" 제목의  프로젝트를 클릭합니다. 프로젝트 보고서 페이지로 이동합니다.
