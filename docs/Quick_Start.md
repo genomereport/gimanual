@@ -50,13 +50,13 @@
 ### 4. 해독 파일 업로드
 1. 다운로드 받은 GRUploader를 실행합니다. 로그인 창이 나타납니다.
 2. 로그인을 합니다.
-3. 해독 파일을 업로드
+3. 해독 파일을 업로드 절차
     1. 왼쪽상단에서 다운로드 받은 폴더로 이동합니다.
     2. 왼쪽하단에서 아래 4개의 파일을 선택하고 오른쪽으로 드래그앤드랍 합니다.
-      * Ctrl01_1.fq.gz
-      * Ctrl01_2.fq.gz
-      * Exp01_1.fq.gz
-      * Exp01_2.fq.gz
+        - Ctrl01_1.fq.gz
+        - Ctrl01_2.fq.gz
+        - Exp01_1.fq.gz
+        - Exp01_2.fq.gz
 
    ````
    [TIP]"로그인 창"을 닫은 경우, GRUploader >> 로그인 메뉴를 클릭합니다.
@@ -75,7 +75,7 @@
      [TIP]GRUploader 프로그램에서 등록한 해독 파일은  YYYY>> MM>>dd-로그인차수 (예:2016>>08>>24-01)에 있습니다.
      ````
 
-3. 수작업으로 sample 생성
+3. 수작업으로 sample 생성 절차
    1. 2016>>08>>24-01 폴더에서 Ctrl01_1.fq.gz 파일을 선택(check) 합니다.
    2. 트리위의 버튼 중에서 포워드 버튼을 클릭합니다.
    3. 2016>>08>>24-01 폴더에서 Ctrl01_2.fq.gz 파일을 선택(check) 합니다.
@@ -91,10 +91,10 @@
 
    ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/sample_screen_1.jpg)
 
-5. 마법사를 통한 sample 생성
-   3. 2016>>08>>24-01 폴더에서 Exp01_1.fq.gz, Exp01_2.fq.gz 파일을 체크합니다.
-   4. 트리위의 버튼 중에서 마법사 버튼를 클릭합니다.
-   5. 샘플 목록 맨 아래에 있는 승인 버튼을 클릭합니다
+5. 마법사를 통한 sample 생성 절차
+   1. 2016>>08>>24-01 폴더에서 Exp01_1.fq.gz, Exp01_2.fq.gz 파일을 체크합니다.
+   1. 트리위의 버튼 중에서 마법사 버튼를 클릭합니다.
+   1. 샘플 목록 맨 아래에 있는 승인 버튼을 클릭합니다
    ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/sample_wizard.jpg)
 
       ````
@@ -131,14 +131,13 @@
  ````
 
 ### 7. 프로젝트 보고서 열람
-1. 로그인 상태가 아니면 로그인을 합니다.
-2. <a href="https://omics.genome-report.com/project" target="_blank"> PRJECT </a>페이지로 이동합니다.
+ 1. 로그인 상태가 아니면 로그인을 합니다.
+ 2. <a href="https://omics.genome-report.com/project" target="_blank"> PRJECT </a>페이지로 이동합니다.
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/project_screen.jpg)
 
 ````
     프로젝트의 상태가 "오류"이면  Q&A에 문의를 해주세요..
     문의시 ID와 제목을 꼭 기재해 주세요.
-
     프로젝트 진행 상황 수신 메일에서도  오류 프로젝트가 있으면 Q&A에 문의를 해주세요.
 ````
-3. 테이블에서 "유전자 발현량 및 발현량 차이 분석" 제목의  프로젝트를 클릭합니다. 프로젝트 보고서 페이지로 이동합니다.
+ 3. 테이블에서 "유전자 발현량 및 발현량 차이 분석" 제목의  프로젝트를 클릭합니다. 프로젝트 보고서 페이지로 이동합니다.
