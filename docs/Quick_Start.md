@@ -31,14 +31,12 @@
 
 ### 3. 해독 파일 다운로드
 
-1. <a href="https://omics.genome-report.com/member" target="_blank">Genome report</a> 사이트 로그인 후, <a href="https://omics.genome-report.com/down_file/sample" target="_blank">SAMPLE FILE DOWNLOAD </a> 페이지를 방문합니다.
-
-2. 아래 4개의 해독 파일을 다운로드 합니다.
-
-   - Ctrl01_1.fq.gz
-   - Ctrl01_2.fq.gz
-   - Exp01_1.fq.gz
-   - Exp01_2.fq.gz
+1.  <a href="https://omics.genome-report.com/member" target="_blank">Genome report</a> 사이트 로그인 후, <a href="https://omics.genome-report.com/down_file/sample" target="_blank">SAMPLE FILE DOWNLOAD </a> 페이지를 방문합니다.
+1. 아래 4개의 해독 파일을 다운로드 합니다.
+    - Ctrl01_1.fq.gz
+    - Ctrl01_2.fq.gz
+    - Exp01_1.fq.gz
+    - Exp01_2.fq.gz
 
   ````
  [TIP]4개 파일 모두를 다운로드 하면 분석에 필요한 포인트를 자동으로 지급합니다. 포인트는 단 한번만 지급됩니다.
@@ -74,24 +72,21 @@
      ````
      [TIP]GRUploader 프로그램에서 등록한 해독 파일은  YYYY>> MM>>dd-로그인차수 (예:2016>>08>>24-01)에 있습니다.
      ````
-
 3. 수작업으로 sample 생성 절차
-   1. 2016>>08>>24-01 폴더에서 Ctrl01_1.fq.gz 파일을 선택(check) 합니다.
-   2. 트리위의 버튼 중에서 포워드 버튼을 클릭합니다.
-   3. 2016>>08>>24-01 폴더에서 Ctrl01_2.fq.gz 파일을 선택(check) 합니다.
-   4. 트리위의 버튼 중에서 백워드 버튼를 클릭합니다.
-   5. SAMPLE 명을  "Ctrl01"로 입력합니다.
-   5. "샘플 목록 추가" 버튼을 클릭합니다.
-   6. 샘플 목록 맨 아래에 있는 승인 버튼을 클릭합니다.
+    1. 2016>>08>>24-01 폴더에서 Ctrl01_1.fq.gz 파일을 선택(check) 합니다.
+    1. 트리위의 버튼 중에서 포워드 버튼을 클릭합니다.
+    1. 2016>>08>>24-01 폴더에서 Ctrl01_2.fq.gz 파일을 선택(check) 합니다.
+    1. 트리위의 버튼 중에서 백워드 버튼를 클릭합니다.
+    1. SAMPLE 명을  "Ctrl01"로 입력합니다.
+    1. "샘플 목록 추가" 버튼을 클릭합니다.
+    1. 샘플 목록 맨 아래에 있는 승인 버튼을 클릭합니다.
 
     ````
      [TIP]샘플명은 파일명을 이용하여 프로그램에서 부여합니다. 예)Ctrl01로 합니다.
     ````
-
-
    ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/sample_screen_1.jpg)
 
-5. 마법사를 통한 sample 생성 절차
+4. 마법사를 통한 sample 생성 절차
    1. 2016>>08>>24-01 폴더에서 Exp01_1.fq.gz, Exp01_2.fq.gz 파일을 체크합니다.
    1. 트리위의 버튼 중에서 마법사 버튼를 클릭합니다.
    1. 샘플 목록 맨 아래에 있는 승인 버튼을 클릭합니다
@@ -136,8 +131,10 @@
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/project_screen.jpg)
 
 ````
-    프로젝트의 상태가 "오류"이면  Q&A에 문의를 해주세요..
-    문의시 ID와 제목을 꼭 기재해 주세요.
-    프로젝트 진행 상황 수신 메일에서도  오류 프로젝트가 있으면 Q&A에 문의를 해주세요.
+ [TIP]프로젝트의 상태가 "오류"이면  Q&A에 문의를 해주세요..
+ [TIP]문의시 ID와 제목을 꼭 기재해 주세요.
+ [TIP]프로젝트 진행 상황 수신 메일에서도  오류 프로젝트가 있으면 Q&A에 문의를 해주세요.
 ````
+
+
  3. 테이블에서 "유전자 발현량 및 발현량 차이 분석" 제목의  프로젝트를 클릭합니다. 프로젝트 보고서 페이지로 이동합니다.
