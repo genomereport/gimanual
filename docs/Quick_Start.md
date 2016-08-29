@@ -74,9 +74,9 @@
      ````
 3. 수작업으로 sample 생성 절차
     1. 2016>>08>>24-01 폴더에서 Ctrl01_1.fq.gz 파일을 선택(check) 합니다.
-    1. 트리위의 버튼 중에서 포워드 버튼을 클릭합니다.
+    1. 트리 위의 버튼 중에서 포워드 버튼을 클릭합니다.
     1. 2016>>08>>24-01 폴더에서 Ctrl01_2.fq.gz 파일을 선택(check) 합니다.
-    1. 트리위의 버튼 중에서 백워드 버튼를 클릭합니다.
+    1. 트리 위의 버튼 중에서 백워드 버튼를 클릭합니다.
     1. SAMPLE 명을  "Ctrl01"로 입력합니다.
     1. "샘플 목록 추가" 버튼을 클릭합니다.
     1. 샘플 목록 맨 아래에 있는 승인 버튼을 클릭합니다.
@@ -86,11 +86,13 @@
     ````
    ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/sample_screen_1.jpg)
 
+
 4. 마법사를 통한 sample 생성 절차
-   1. 2016>>08>>24-01 폴더에서 Exp01_1.fq.gz, Exp01_2.fq.gz 파일을 체크합니다.
-   1. 트리위의 버튼 중에서 마법사 버튼를 클릭합니다.
-   1. 샘플 목록 맨 아래에 있는 승인 버튼을 클릭합니다
-   ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/sample_wizard.jpg)
+     1. 2016>>08>>24-01 폴더에서 Exp01_1.fq.gz, Exp01_2.fq.gz 파일을 체크합니다.
+     1. 트리 위의 버튼 중에서 마법사 버튼를 클릭합니다..
+     1. 샘플 목록 맨 아래에 있는 승인 버튼을 클릭합니다.
+
+      ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/sample_wizard.jpg)
 
       ````
      [TIP]Explorer 페이지에서 트리를 조회하면  user>>uncategorized>>년(YYYY)>>월(MM)>>일(DD)에 생성한 샘플을 확인할 수 있습니다. 년월일은 SAMPLE 생성일입니다.
@@ -129,10 +131,10 @@
  1. 로그인 상태가 아니면 로그인을 합니다.
  2. <a href="https://omics.genome-report.com/project" target="_blank"> PRJECT </a>페이지로 이동합니다.
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/project_screen.jpg)
-
-````
- [TIP]프로젝트의 상태가 "오류"이면  Q&A에 문의를 해주세요..
- [TIP]문의시 ID와 제목을 꼭 기재해 주세요.
- [TIP]프로젝트 진행 상황 수신 메일에서도  오류 프로젝트가 있으면 Q&A에 문의를 해주세요.
-````
+ ````
+   [TIP]프로젝트의 상태가 "오류"이면  Q&A에 문의를 해주세요..
+   [TIP]문의시 ID와 제목을 꼭 기재해 주세요.
+   [TIP]프로젝트 진행 상황 수신 메일에서도  오류 프로젝트가 있으면 Q&A에 문의를 해주세요.
+  ````
  3. 테이블에서 "유전자 발현량 및 발현량 차이 분석" 제목의  프로젝트를 클릭합니다. 프로젝트 보고서 페이지로 이동합니다.
+
