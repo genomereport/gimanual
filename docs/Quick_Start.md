@@ -129,7 +129,7 @@
 
 ### 7. 프로젝트 보고서 열람
  1. 로그인 상태가 아니면 로그인을 합니다.
- 2. <a href="https://omics.genome-report.com/project" target="_blank"> PRJECT </a>페이지로 이동합니다.
+ 2. <a href="https://omics.genome-report.com/project" target="_blank"> PROJECT </a>페이지로 이동합니다.
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/project_screen.jpg)
  ````
    [TIP]프로젝트의 상태가 "오류"이면  Q&A에 문의를 해주세요..
