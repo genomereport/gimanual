@@ -9,6 +9,7 @@
 7. 프로젝트(분석) 요청
 8. 프로젝트 보고서 열람
 
+
 ### 1. 회원가입
 1. Genome report  <a href="https://omics.genome-report.com/member" target="_blank"> 회원 가입</a> 사이트를 방문합니다.
 1. 아래 항목을 입력하고 회원 가입 버튼을 클릭합니다.
@@ -24,6 +25,7 @@
     2. 본문에 있는 승인 URL을 클릭합니다.
     3. 회원 가입 승인 페이지가 보여집니다.
 
+
 ### 2. 해독 파일 다운로드
 
 실습을 위해서 Genome report가 제공하는 예제 데이터를 받아야 합니다. 예제 데이터는 2개 샘플 4개 파일로 구성되어 있으며, 다음 과정을 통해서 파일을 받으실 수 있습니다.
@@ -35,10 +37,10 @@
     - Exp01_1.fq.gz
     - Exp01_2.fq.gz
 
-```
-[TIP]4개 파일 모두를 다운로드 하면 분석에 필요한 포인트를 자동으로 지급합니다. 포인트는 단 한번만 지급됩니다.
+````
+[TIP] 4개 파일 모두를 다운로드 하면 분석에 필요한 포인트를 자동으로 지급합니다. 포인트는 단 한번만 지급됩니다.
 [TIP] 다운로드 파일들은 SAMPLE 생성시 사용됩니다. 다운로드 폴더를 기억하십시요.
-```
+````
 
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/tutorial_file_download.jpg)
 
@@ -52,15 +54,15 @@ GRUploader를 이용한 파일 업로드와 웹을 이용한 파일 업로드를
 #### GRUploader 다운로드
 
 1. <a href="http://www.genome-report.com/down_file" target="_blank"> GRUploader 다운로드</a> 페이지로 방문합니다.
-2. 각 운영체제에 해당하는 실행파일을 다운로드 받습니다. (윈도우는 왼쪽, OSX와 리눅스는 오른쪽)
+2. 각 운영체제에 해당하는 실행파일을 다운로드 받습니다. (윈도우는 왼쪽, OSX와 리눅스는 오른쪽을 선택하시면 됩니다.)
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/screen_3.jpg)
 
 
 #### 해독 파일 업로드
 
-1. 다운로드 받은 GRUploader를 실행합니다. 로그인 창이 나타납니다.
-2. 로그인을 합니다.
-3. 해독 파일을 업로드 절차
+1. 다운로드 받은 GRUploader를 실행합니다. 
+2. 로그인 창이 나타나면, Genome report 가입 ID와 암호를 입력하고 로그인 합니다.
+3. 해독 파일을 업로드합니다.
     1. 왼쪽상단에서 다운로드 받은 폴더로 이동합니다.
     2. 왼쪽하단에서 아래 4개의 파일을 선택하고 오른쪽으로 드래그앤드랍 합니다.
         - Ctrl01_1.fq.gz
