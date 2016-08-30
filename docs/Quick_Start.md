@@ -5,8 +5,9 @@
 3. 해독 파일 다운로드
 4. 해독 파일 업로드
 5. Sample 생성
-6. 프로젝트(분석) 요청
-7. 프로젝트 보고서 열람
+6. Sample Feature 등록
+7. 프로젝트(분석) 요청
+8. 프로젝트 보고서 열람
 
 ### 1. 회원가입
 1. Genome report  <a href="https://omics.genome-report.com/member" target="_blank"> 회원 가입</a> 사이트를 방문합니다.
@@ -99,8 +100,20 @@
      [TIP]마법사 이용시 "샘플명은 필수 입력입니다" 라는 메세지가 나오면 사용자가 직접 "샘플명"을 입력하면 됩니다.
       ````
 
+### 6. Sample Feature 등록
+1.  왼쪽 트리에서  user>>uncategorized>>YYYY>> MM>>dd(예:2016>>08>>24)를 선택합니다.
+![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/sample_feature_screen1.jpg)
+2. 테이블에서 "Ctrl01" 첫번째 행의 작업 셀에서 "수정"버튼을 클릭합니다.
+    1. 아래 화면의 팝업과 같이 설정하고 저장을 합니다.
+    2. "Exp01"도 윗 작업을 반복합니다.
+ ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/sample_feature_screen2.jpg)
+3. "Ctrl01"과 "Exp01"에 sample Feature등록 완료 화면입니다.
+   1. 테이블의  "샘플기능" 컬럼에 데이타가 있습니다.
+ ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/sample_feature_screen3.jpg)
 
-### 6. 프로젝트(분석) 요청
+
+
+### 7. 프로젝트(분석) 요청
  1. 왼쪽 매뉴에서 <a href="https://omics.genome-report.com/analysis" target="_blank"> ANALYSIS</a>를 선택합니다. 사용 가능한 파이프라인 목록이 보여집니다.
 
  2. "유전자 발현량 및 발현량 차이 분석 (Tuxedo Protocol)" 파이프라인을 클릭합니다.
@@ -127,7 +140,7 @@
  [TIP]프로젝트가 완료되면 회원 가입시 등록된 메일주소로 프로젝트 진행 상황이 메일이 발송됩니다.
  ````
 
-### 7. 프로젝트 보고서 열람
+### 8. 프로젝트 보고서 열람
  1. 로그인 상태가 아니면 로그인을 합니다.
  2. <a href="https://omics.genome-report.com/project" target="_blank"> PROJECT </a>페이지로 이동합니다.
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/project_screen.jpg)
@@ -137,4 +150,6 @@
    [TIP]프로젝트 진행 상황 수신 메일에서도  오류 프로젝트가 있으면 Q&A에 문의를 해주세요.
   ````
  3. 테이블에서 "유전자 발현량 및 발현량 차이 분석" 제목의  프로젝트를 클릭합니다. 프로젝트 보고서 페이지로 이동합니다.
+  ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/project_screen1.jpg)
+ 5.
 
