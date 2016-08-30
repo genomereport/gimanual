@@ -24,13 +24,7 @@
     2. 본문에 있는 승인 URL을 클릭합니다.
     3. 회원 가입 승인 페이지가 보여집니다.
 
-### 2. GRUploader 다운로드
-1. <a href="http://www.genome-report.com/down_file" target="_blank"> GRUploader 다운로드</a> 페이지로 방문합니다.
-2. 각 운영체제에 해당하는 실행파일을 다운로드 받습니다. (윈도우는 왼쪽, OSX와 리눅스는 오른쪽)
-![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/screen_3.jpg)
-
-
-### 3. 해독 파일 다운로드
+### 2. 해독 파일 다운로드
 
 실습을 위해서 Genome report가 제공하는 예제 데이터를 받아야 합니다. 예제 데이터는 2개 샘플 4개 파일로 구성되어 있으며, 다음 과정을 통해서 파일을 받으실 수 있습니다.
 
@@ -48,7 +42,22 @@
 
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/tutorial_file_download.jpg)
 
-### 4. 해독 파일 업로드
+
+### 3. 해독 파일 업로드 
+
+Genome report를 이용한 NGS데이터 분석을 위해서 해야할 첫 번째 작업은 파일 업로드 입니다. Genome report는 파일 업로드를 위해서
+GRUploader를 이용한 파일 업로드와 웹을 이용한 파일 업로드를 지원하며, 500M 이상의 대용량 파일은 GRUploader를 이용하셔야만
+업로드 하실 수 있습니다. 이 예제에서는 GR Uploader를 이용해서 파일 업로드하는 것을 실습하겠습니다.
+
+#### GRUploader 다운로드
+
+1. <a href="http://www.genome-report.com/down_file" target="_blank"> GRUploader 다운로드</a> 페이지로 방문합니다.
+2. 각 운영체제에 해당하는 실행파일을 다운로드 받습니다. (윈도우는 왼쪽, OSX와 리눅스는 오른쪽)
+![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/screen_3.jpg)
+
+
+#### 해독 파일 업로드
+
 1. 다운로드 받은 GRUploader를 실행합니다. 로그인 창이 나타납니다.
 2. 로그인을 합니다.
 3. 해독 파일을 업로드 절차
