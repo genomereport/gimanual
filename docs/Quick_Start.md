@@ -156,5 +156,5 @@
  4. 진행상황에서  "Report"버튼을 클릭하면  보고서가 pdf 형식으로 열립니다.
   ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/project_report_screen_3.jpg)
  5. 진행상황에서 "상세보기"버튼을 클릭하면 상세보기 페이지로 이동합니다.
-  ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/project_report_screen_2.jpg)
+  ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/project_report_screen_2.png)
 
