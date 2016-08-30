@@ -3,6 +3,7 @@ site_name: Genome report Menual
 pages:
 - Home: 'index.md'
 - Quick Start: 
+    - 시작 : quick_start/start.md
     - 회원 가입 : quick_start/member_registration.md
     - 예제 파일 받기 : quick_start/example_download.md
     - 파일 업로드 : quick_start/file_upload.md
@@ -11,6 +12,7 @@ pages:
     - 분석 시작 : quick_start/analysis.md
     - 분석 진행상황 확인 : quick_start/project_status.md
     - 분석 결과 보기 : quick_start/report.md
+    - 끝 : quick_start/end.md
 - GR_File_Manager: GR_File_Manager.md
 - Web_File_Uploader: Web_File_Uploader.md
 
