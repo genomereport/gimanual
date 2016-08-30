@@ -26,7 +26,7 @@
 
 ### 2. GRUploader 다운로드
 1. <a href="http://www.genome-report.com/down_file" target="_blank"> GRUploader 다운로드</a> 페이지로 방문합니다.
-2. 윈도우는 왼쪽 버튼을 클릭합니다. OSX와 리눅스 사용자는 오른쪽 버튼을 클릭합니다.
+2. 각 운영체제에 해당하는 실행파일을 다운로드 받습니다. (윈도우는 왼쪽, OSX와 리눅스는 오른쪽)
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/screen_3.jpg)
 
 
