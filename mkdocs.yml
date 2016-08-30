@@ -3,7 +3,5 @@ site_name: Genome report Menual
 pages:
 - Home: 'index.md'
 - Quick Start: 'Quick_Start.md'
-    - 회원 가입: 'member_registration.md'
-    - 파일 업로드: 'Quick_Start.md'
 - GR_File_Manager: 'GR_File_Manager.md'
 - Web_File_Uploader: 'Web_File_Uploader.md'
