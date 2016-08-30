@@ -70,7 +70,7 @@ Genome report를 이용한 NGS데이터 분석을 위해서 해야할 첫 번째
         - Ctrl01_2.fq.gz
         - Exp01_1.fq.gz
         - Exp01_2.fq.gz
-4. 오른쪽 테이블에서 업로드한 파일들의 "status"가 모두 'Compleated'가 되면 업로드가 완료입니다.
+4. 오른쪽 테이블에서 업로드한 파일들의 "status"가 모두 'Completed'가 되면 업로드가 완료입니다.
 
    ````
    [TIP]"로그인 창"을 닫은 경우, GRUploader >> 로그인 메뉴를 클릭합니다.
@@ -93,10 +93,10 @@ Genome report를 이용한 NGS데이터 분석을 위해서 해야할 첫 번째
      [TIP]GRUploader 프로그램에서 등록한 해독 파일은  YYYY>> MM>>dd-로그인차수 (예:2016>>08>>24-01)에 있습니다.
      ````
 3. 수작업으로 sample 생성 절차
-    1. 2016>>08>>24-01 폴더에서 Ctrl01_1.fq.gz 파일을 선택(check) 합니다.
-    1. 트리 위의 버튼 중에서 포워드 버튼을 클릭합니다.
-    1. 2016>>08>>24-01 폴더에서 Ctrl01_2.fq.gz 파일을 선택(check) 합니다.
-    1. 트리 위의 버튼 중에서 백워드 버튼를 클릭합니다.
+    1. 2016>>09>>01-01 폴더에서 Ctrl01_1.fq.gz 파일을 선택(check) 합니다.
+    1. 선택창 위쪽에 있는 **포워드 버튼**을 클릭합니다.
+    1. 2016>>09>>01-01 폴더에서 Ctrl01_2.fq.gz 파일을 선택(check) 합니다.
+    1. 선택 창 위쪽에 있는 **백워드 버튼**를 클릭합니다.
     1. SAMPLE 명을  "Ctrl01"로 입력합니다.
     1. "샘플 목록 추가" 버튼을 클릭합니다.
     1. 샘플 목록 맨 아래에 있는 승인 버튼을 클릭합니다.
@@ -108,9 +108,9 @@ Genome report를 이용한 NGS데이터 분석을 위해서 해야할 첫 번째
 
 
 4. 마법사를 통한 sample 생성 절차
-     1. 2016>>08>>24-01 폴더에서 Exp01_1.fq.gz, Exp01_2.fq.gz 파일을 체크합니다.
-     1. 트리 위의 버튼 중에서 마법사 버튼를 클릭합니다..
-     1. 샘플 목록 맨 아래에 있는 승인 버튼을 클릭합니다.
+     1. 2016>>09>>01-01 폴더에서 Exp01_1.fq.gz, Exp01_2.fq.gz 파일을 동시에 체크합니다.
+     1. 선택창 위쪽에 있는 **마법사 버튼**를 클릭합니다..
+     1. 샘플 목록에 새로운 샘플이 등록된 것을 확인한 후 샘플 목록 맨 아래에 있는 승인 버튼을 클릭합니다.
 
       ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/sample_wizard.jpg)
 
@@ -120,6 +120,7 @@ Genome report를 이용한 NGS데이터 분석을 위해서 해야할 첫 번째
       ````
 
 ### 6. Sample Feature 등록
+
 1.  왼쪽 트리에서  user>>uncategorized>>YYYY>> MM>>dd(예:2016>>08>>24)를 선택합니다.
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/sample_feature_screen1.jpg)
 2. 테이블에서 "Ctrl01" 첫번째 행의 작업 셀에서 "수정"버튼을 클릭합니다.
