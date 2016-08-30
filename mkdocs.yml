@@ -17,3 +17,5 @@ pages:
 - Web_File_Uploader: Web_File_Uploader.md
 
 theme: readthedocs
+markdown_extensions:
+  - markdown.extensions.admonition
