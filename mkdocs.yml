@@ -6,8 +6,11 @@ pages:
     - 회원 가입 : quick_start/member_registration.md
     - 예제 파일 받기 : quick_start/example_download.md
     - 파일 업로드 : quick_start/file_upload.md
-    - 샘플 등록 및 특성 부여 : quick_start/sample_register.md
-    - File Upload : Quick_Start.md
+    - 샘플 등록 : quick_start/sample_register.md
+    - 샘플 특성 부여 : quick_start/sample_feature.md
+    - 분석 시작 : quick_start/analysis.md
+    - 분석 진행상황 확인 : quick_start/project_status.md
+    - 분석 결과 보기 : quick_start/report.md
 - GR_File_Manager: GR_File_Manager.md
 - Web_File_Uploader: Web_File_Uploader.md
 
