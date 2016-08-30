@@ -1,4 +1,4 @@
-site_name: Genome report Menual
+site_name: Genome report Manual
 
 pages:
 - Home: 'index.md'
@@ -13,8 +13,10 @@ pages:
     - 분석 진행상황 확인 : quick_start/project_status.md
     - 분석 결과 보기 : quick_start/report.md
     - 끝 : quick_start/end.md
-- GR_File_Manager: GR_File_Manager.md
-- Web_File_Uploader: Web_File_Uploader.md
+- File Manager :
+    - GRUploader: GR_File_Manager.md
+    - Web_File_Uploader: Web_File_Uploader.md
+- License : license.md
 
 theme: readthedocs
 markdown_extensions:
