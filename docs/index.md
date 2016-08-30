@@ -12,8 +12,15 @@ Genome report는 다양한 생명정보 데이터 중 차세대 서열 해독기
 1. File Manager
     1. GRUploader - 전용 프로그램을 이용하여 대용량 파일을 업로드 하는 방법을 학습합니다.
     1. Web File Uploader - 웹 환경에서 2G이하의  파일을 업로드 하는 방법을 학습합니다.
-3. Resource Manager - Resource Manager 에 대해 배우고, 샘플을 등록하고, 특성을 부여하는 방법을 학습합니다.
-4. Analysis - 분석 방법을 학습합니다.
-5. Report - 결과 보고서를 설명합니다.
-6. Reference
+1. Resource Manager (준비중) - 샘플을 등록하고, 특성을 부여하는 방법을 설명합니다.
+    1. Explorer
+    1. Sample
+    1. Share 
+1. Analysis (준비중) - 분석 방법을 학습합니다.
+    1. RNA-seq basic analysis
+    1. General Variant Calling
+    1. Somatic mutation analysis
+1. Report - 결과 보고서를 설명합니다.
+    1. [RNA-seq](report/rnaseq_basic.md) : RNA-seq 데이터 분석 결과 보고서를 설명합니다.
+1. Reference
 

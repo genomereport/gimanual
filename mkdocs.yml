@@ -1,4 +1,4 @@
-site_name: Genome report Manual
+site_name: Genome report 
 
 pages:
 - Home: 'index.md'
@@ -15,7 +15,9 @@ pages:
     - 끝 : quick_start/end.md
 - File Manager :
     - GRUploader: GR_File_Manager.md
-    - Web_File_Uploader: Web_File_Uploader.md
+    - Web File Uploader: Web_File_Uploader.md
+- Report :
+    - RNA-seq : report/rnaseq_basic.md
 - License : license.md
 
 theme: readthedocs
