@@ -37,15 +37,17 @@ GRUploader는 Genome report 에서 사용하는 전용 파일 업로드 프로�
     - Ctrl01_2.fq.gz
     - Exp01_1.fq.gz
     - Exp01_2.fq.gz
-1. 오른쪽 테이블에서 업로드한 파일들의 "Status"가 모두 'Completed'가 되면 업로드가 될때까지 기다립니다.
-
-!!!note "Note"
-    업로드한 파일의 상태값이 'File Upload Fail'인 경우 해당 파일을 업로드 작업을 다시 하면 됩니다.
 
 !!!tip "Tip"
     여러개의 파일을 한번에 선택해서 드래그앤 드랍도 가능합니다.
 
+오른쪽 창에서 업로드한 파일들의 "Status"가 모두 'Completed'가 되면 업로드가 될때까지 기다립니다.
 
-![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/gruploader_screen_1.jpg)
+!!!note "Note"
+    업로드한 파일의 상태값이 'File Upload Fail'인 경우 해당 파일을 업로드 작업을 다시 하면 됩니다.
+
+
+
+![업로드가 완료된 후 표시](https://github.com/genomereport/gimanual/raw/master/docs/images/gruploader_screen_1.jpg)
 
 

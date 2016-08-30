@@ -20,7 +20,7 @@
 * Exp01_2.fq.gz
 
 
-!!!tip "Note"
+!!!note "Note"
     다운로드 파일들은 SAMPLE 생성시 사용됩니다. 다운로드 폴더를 기억하십시요.
 
 
