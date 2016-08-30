@@ -131,9 +131,9 @@ Genome report를 이용한 자료 분석전 정확한 분석을 위해서 샘플
 샘플의 특성을 설정해보겠습니다.
 
 
-1.  왼쪽 트리에서  user>>uncategorized>>YYYY>> MM>>dd(예:2016>>08>>24)를 선택합니다.
+1. 화면 왼쪽 상자에서  **user>>uncategorized>>YYYY>>MM>>dd(예:2016>>08>>24)**를 선택합니다.
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/sample_feature_screen1.jpg)
-2. 테이블에서 "Ctrl01" 첫번째 행의 작업 셀에서 "수정"버튼을 클릭합니다.
+2. 오른쪽 테이블에서 "Ctrl01" 이 표시된 첫번째 행의 마지막 칸에서 "수정"버튼을 클릭합니다.
     1. 아래 화면의 팝업과 같이 설정하고 저장을 합니다.
     2. "Exp01"도 윗 작업을 반복합니다.
  ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/sample_feature_screen2.jpg)
