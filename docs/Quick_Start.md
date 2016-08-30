@@ -150,6 +150,10 @@ Genome report를 이용한 자료 분석전 정확한 분석을 위해서 샘플
 
 
 ### 7. 프로젝트(분석) 요청
+
+이제 등록된 샘플을 이용하여 분석을 진행하는 단계입니다.
+
+
  1. 왼쪽 매뉴에서 <a href="https://omics.genome-report.com/analysis" target="_blank"> ANALYSIS</a>를 선택합니다. 사용 가능한 파이프라인 목록이 보여집니다.
 
  2. "유전자 발현량 및 발현량 차이 분석 (Tuxedo Protocol)" 파이프라인을 클릭합니다.
@@ -167,16 +171,19 @@ Genome report를 이용한 자료 분석전 정확한 분석을 위해서 샘플
     6. 실험 디자인에서 Control 셀렉트 박스에서 "Ctrl01" SAMPLE을 선택합니다.
     7. 실험 디자인에서 Experimental 셀렉트 박스에서 "Exp01" SAMPLE을 하나 선택합니다.
     ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/pipeline_design.jpg)
-    5. 승인 버튼을 클릭합니다.
+    5. 선택이 완료되면 아래와 같은 화면이 됩니다. 확인하고 승인 버튼을 클릭합니다.
 
     ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/analysis_full_screen.png)
 
  ````
  [TIP]분석 요청이 정상적으로 처리되면 프로젝트 페이지로 자동이동 합니다.
+ ````
+ ````
  [TIP]프로젝트가 완료되면 회원 가입시 등록된 메일주소로 프로젝트 진행 상황이 메일이 발송됩니다.
  ````
 
 ### 8. 프로젝트 보고서 열람
+
  1. 로그인 상태가 아니면 로그인을 합니다.
  2. <a href="https://omics.genome-report.com/project" target="_blank"> PROJECT </a>페이지로 이동합니다.
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/project_screen.jpg)
