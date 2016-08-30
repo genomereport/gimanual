@@ -37,10 +37,11 @@
     - Exp01_1.fq.gz
     - Exp01_2.fq.gz
 
-````
-[TIP] 4개 파일 모두를 다운로드 하면 분석에 필요한 포인트를 자동으로 지급합니다. 포인트는 단 한번만 지급됩니다.
+ ````
+ [TIP] 4개 파일 모두를 다운로드 하면 분석에 필요한 포인트를 자동으로 지급합니다. 포인트는 단 한번만 지급됩니다.
+ ````
+
 [TIP] 다운로드 파일들은 SAMPLE 생성시 사용됩니다. 다운로드 폴더를 기억하십시요.
-````
 
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/tutorial_file_download.jpg)
 
@@ -80,8 +81,13 @@ Genome report를 이용한 NGS데이터 분석을 위해서 해야할 첫 번째
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/gruploader_screen_1.jpg)
 
 
-### 5. SAMPLE 생성
-1. <a href="https://omics.genome-report.com/member" target="_blank">Genome report</a> 사이트 로그인 후, 왼쪽 매뉴에서 <a href="https://omics.genome-report.com/resource" target="_blank">RESOURCE</a> 메뉴를 클릭합니다.
+### 4. 샘플 생성
+
+샘플 생성은 업로드한 파일을 이용하여 분석의 단위가 되는 샘플을 등록하는 과정입니다. 샘플 등록은 **파일을 직접 지정하는 방법**과 **마법사를 통한 파일 등록 방법**이 있습니다.
+2개의 샘플을 각 각의 방법으로 등록해보겠습니다.
+
+
+1. <a href="https://omics.genome-report.com/member" target="_blank">Genome report</a> 사이트 로그인 후, 왼쪽 매뉴에서 <a href="https://omics.genome-report.com/resource" target="_blank">RESOURCE</a>를 클릭합니다.
 2. Resource 페이지에서 "Sample" 메뉴를 클릭합니다.
      ````
      [TIP]GRUploader 프로그램에서 등록한 해독 파일은  YYYY>> MM>>dd-로그인차수 (예:2016>>08>>24-01)에 있습니다.
