@@ -49,3 +49,5 @@
 1. 등록된 2개의 샘플이 나타나는 것을 확인합니다.
 
 
+![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/sample_feature_screen1.jpg)
+
