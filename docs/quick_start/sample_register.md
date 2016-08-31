@@ -45,7 +45,7 @@
 
 ## Step 4. 샘플 등록 확인
 
-1. 화면 왼쪽의 Resource 메뉴를 선택해서 **탐색기(Explorer)**화면으로 들어갑니다.
+1. **Explorer|Share|Sample** 메뉴 중에서 **Explorer**를 클릭합니다.
 1. 왼쪽 상자 안에서 **user>>uncategorized>>2016>>09>>01**  선택합니다. 
 1. 등록된 2개의 샘플이 나타나는 것을 확인합니다.
 
