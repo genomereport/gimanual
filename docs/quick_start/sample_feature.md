@@ -8,7 +8,7 @@ Genome report를 이용한 자료 분석하기 위해서는 생성된 샘플의 
 
 ## Step 1. Ctrl01 샘플 선택
 
-Genome report에 로그인한 후 **RESOURCE** 메뉴를 선택합니다. 화면 왼쪽 상자에서  **user>>uncategorized>>YYYY>>MM>>dd**를 선택합니다.
+트리에서  **user>>uncategorized>>YYYY>>MM>>dd**를 선택합니다.
 
 !!!Note
     YYYY,MM,dd는 샘플 생성 날짜를 의미합니다. <br>예를 들어 2016.9.1에 샘플을 등록했다면 경로는 user>>uncategorized>>2016>>09>>10 이 됩니다.
