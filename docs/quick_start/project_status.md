@@ -7,7 +7,9 @@
 ## Step 1. 프로젝트 상세 보기
 
 프로젝트 진행상황을 프로젝트의 상세 보기 화면에서 확인 가능합니다. Genome report에 로그인 후 <a href="https://omics.genome-report.com/analysis" target="_blank"> **PROJECT**</a> 메뉴를 선택합니다.
-그리고 나타난 프로젝트 화면 중 확인하고 싶은 프로젝트의 제목을 선택하면, 아래와 같은 화면이 나타납니다.
+그리고 조회된 프로젝트 화면 중 확인하고 싶은 프로젝트의 제목을 선택하면, 아래와 같은 화면이 나타납니다.
+
+![화면](https://raw.githubusercontent.com/genomereport/gimanual/master/docs/images/project_status_03.jpg)
 
 ![화면](https://raw.githubusercontent.com/genomereport/gimanual/master/docs/images/project_status_01.png)
 
