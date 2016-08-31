@@ -5,7 +5,7 @@
 
 ## Step 1. 분석 파이프라인 선택
 
-왼쪽 매뉴에서 <a href="https://omics.genome-report.com/analysis" target="_blank"> ANALYSIS</a>를 선택합니다. 사용 가능한 파이프라인 목록이 보여집니다.  "유전자 발현량 및 발현량 차이 분석 (Tuxedo Protocol)" 파이프라인을 클릭합니다.
+왼쪽 매뉴에서 <a href="https://omics.genome-report.com/analysis" target="_blank"> ANALYSIS</a>를 선택합니다. 사용 가능한 파이프라인 목록이 보여집니다.  **유전자 발현량 및 발현량 차이 분석 (Tuxedo Protocol)** 파이프라인을 클릭합니다.
 
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/analysis_pipeline.jpg)
 
@@ -19,7 +19,7 @@
 
 ## Step 3. 샘플 선택
 
-샘플 항목에서 샘플 선택 버튼을 클릭합니다. 팝업창에서  "Ctrl01, Exp01" 샘플을 선택합니다.
+샘플 항목에서 샘플 선택 버튼을 클릭합니다. 팝업창에서  **Ctrl01**, **Exp01** 샘플을 선택합니다.
 
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/pipeline_sample_choose.jpg)
 
@@ -31,7 +31,7 @@
 
 ## Step 4. 참조 유전체 선택
 
-참조유전체는 "Horse(EquCab2/Ensembl 84)"를 선택합니다.
+참조유전체는 **Horse(EquCab2/Ensembl 84)**를 선택합니다.
 
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/pipeline_reference.jpg)
 
@@ -43,7 +43,7 @@
 
 ## Step 6. 실험 디자인
 
-실험 디자인에서 Control 셀렉트 박스에서 "Ctrl01" SAMPLE을 선택하고,  Experimental 셀렉트 박스에서 "Exp01" SAMPLE을 하나 선택합니다.
+실험 디자인에서 Control 셀렉트 박스에서 **Ctrl01** SAMPLE을 선택하고,  Experimental 셀렉트 박스에서 **Exp01** SAMPLE을 하나 선택합니다.
 
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/pipeline_design.jpg)
 

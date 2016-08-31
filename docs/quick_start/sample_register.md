@@ -27,6 +27,7 @@
 !!!tip "Tip"
         샘플명은 파일명을 이용하여 프로그램에서 부여하며, 사용자가 원하는 이름으로 변경할 수 있습니다.
 
+
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/sample_screen_1.jpg)
 
 
@@ -44,7 +45,7 @@
 
 ## Step 4. 샘플 등록 확인
 
-1. 화면 왼쪽의 Resource 메뉴를 선택해서 탐색기(Explorer)화면으로 들어갑니다.
+1. 화면 왼쪽의 Resource 메뉴를 선택해서 **탐색기(Explorer)**화면으로 들어갑니다.
 1. 왼쪽 상자 안에서 **user>>uncategorized>>2016>>09>>01**  선택합니다. 
 1. 등록된 2개의 샘플이 나타나는 것을 확인합니다.
 

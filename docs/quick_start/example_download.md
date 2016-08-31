@@ -7,7 +7,7 @@
 
 다음 주소를 통해 Genome Report 사이트에 접속 한후 로그인 합니다.
 
-* <a href="https://omics.genome-report.com/member" target="_blank">https://omics.genome-report.com/member</a>
+* <a href="https://omics.genome-report.com" target="_blank">https://omics.genome-report.com</a>
 
 
 ## Step 2. 파일 다운로드

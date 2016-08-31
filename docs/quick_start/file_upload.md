@@ -1,6 +1,6 @@
 # 파일 업로드
 
-Genome report를 이용한 NGS데이터 분석을 위해서 해야할 첫 번째 작업은 파일 업로드 입니다. 
+Genome report를 이용한 NGS데이터 분석을 위해서 해야 할 첫 번째 작업은 파일 업로드 입니다.
 
 Genome report는 파일 업로드를 위해서
 **GRUploader를 이용한 파일 업로드**와 **웹을 이용한 파일 업로드**를 지원하고 있으며, 500M 이상의 대용량 파일은 GRUploader를 이용하셔야만
@@ -9,7 +9,7 @@ Genome report는 파일 업로드를 위해서
 
 ## Step 1. GRUploader 받기
 
-GRUploader는 Genome report 에서 사용하는 전용 파일 업로드 프로그램 입니다. 로그인 후  **SUPPORT -> Download** 메뉴를 선택하거나 다음 주소를 이용하여 바로 접근할 수 있습니다.
+GRUploader는 Genome report 에서 사용하는 전용 파일 업로드 프로그램 입니다. 로그인 후  **SUPPORT >> Download** 메뉴를 선택하거나 다음 주소를 이용하여 바로 접근할 수 있습니다.
 
 * <a href="http://www.genome-report.com/down_file" target="_blank">http://www.genome-report.com/down_file</a>
 
@@ -21,10 +21,10 @@ GRUploader는 Genome report 에서 사용하는 전용 파일 업로드 프로�
 
 ## Step 2. 실행 및 로그인
 
-다운로드 받은 GRUploader를 실행합니다. 그리고  로그인 창이 나타나면, Genome report 가입 ID와 암호를 입력하고 로그인 합니다.
+다운로드 받은 **GRUploader**를 실행합니다. 그리고  로그인 창이 나타나면, Genome report 가입 ID와 암호를 입력하고 로그인 합니다.
 
 !!!tip "Tip"
-    "로그인 창"을 닫은 경우, GRUploader >> 로그인 메뉴를 클릭합니다.
+    "로그인 창"을 닫은 경우, **GRUploader >> 로그인** 메뉴를 클릭합니다.
 
 ## Step 3. 파일을 업로드
 
@@ -32,20 +32,19 @@ GRUploader는 Genome report 에서 사용하는 전용 파일 업로드 프로�
 다음 순서를 따라서 파일을 업로드 합니다.
 
 1. 왼쪽상단에서 다운로드 받은 폴더로 이동합니다.
-1. 왼쪽하단에서 아래 4개의 파일을 선택하고 오른쪽으로 드래그앤드랍 합니다.
+1. 왼쪽하단에서 아래 4개의 파일을 선택하고 오른쪽으로 **드래그앤드랍** 합니다.
     - Ctrl01_1.fq.gz
     - Ctrl01_2.fq.gz
     - Exp01_1.fq.gz
     - Exp01_2.fq.gz
+1. 오른쪽 창에서 업로드한 파일들의 "Status"가 모두 'Completed'가 될 때까지 기다립니다.
 
 !!!tip "Tip"
-    여러개의 파일을 한번에 선택해서 드래그앤 드랍도 가능합니다.
-
-오른쪽 창에서 업로드한 파일들의 "Status"가 모두 'Completed'가 되면 업로드가 될때까지 기다립니다.
+    **여러개의 파일**을 한번에 선택해서 드래그앤 드랍도 가능합니다.
 
 !!!note "Note"
-    업로드한 파일의 상태값이 'File Upload Fail'인 경우 해당 파일을 업로드 작업을 다시 하면 됩니다.
-
+    업로드한 파일의 상태값이 'File Upload Fail'인 경우 해당 파일을 업로드 작업을 다시 하면 됩니다.<br>
+    파일 전송이 끝나기 전에 **GRUploader**를 종료하면 전송 작업이 중단됩니다.
 
 
 ![업로드가 완료된 후 표시](https://github.com/genomereport/gimanual/raw/master/docs/images/gruploader_screen_1.jpg)
