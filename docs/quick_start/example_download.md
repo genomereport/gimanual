@@ -12,7 +12,7 @@
 
 ## Step 2. 파일 다운로드
 
-로그인 후 **SUPPORT -> Sample File Donwload** 메뉴를 선택해서 아래 4개의 파일을 다운로드 합니다.
+로그인 후 **SUPPORT -> <a href="https://omics.genome-report.com/down_file/sample" target="_blank">Sample File Donwload</a>** 메뉴를 선택해서 아래 4개의 파일을 다운로드 합니다.
 
 * Ctrl01_1.fq.gz
 * Ctrl01_2.fq.gz
