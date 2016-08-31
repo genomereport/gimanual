@@ -19,9 +19,12 @@ GRUploader는 Genome report 에서 사용하는 전용 파일 업로드 프로�
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/screen_3.jpg)
 
 
+
 ## Step 2. 실행 및 로그인
 
-다운로드 받은 **GRUploader**를 실행합니다. 그리고  로그인 창이 나타나면, Genome report 가입 ID와 암호를 입력하고 로그인 합니다.
+다운로드 받은 GRUploader를 실행합니다. 만약 윈도우에서 다운로드 받은 파일 실행 시에 "Windows의 PC보호"화면이 나올 경우 화면안의 **"추가 정보"**를 선택하시면, 설치를 계속 진행하실 수 있습니다.
+
+로그인 창이 나타나면, Genome report 가입 ID와 암호를 입력하고 로그인 합니다.
 
 !!!tip "Tip"
     "로그인 창"을 닫은 경우, **GRUploader >> 로그인** 메뉴를 클릭합니다.
