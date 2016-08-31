@@ -7,12 +7,12 @@
 
 다음 주소를 통해 Genome Report 사이트에 접속 한후 로그인 합니다.
 
-* <a href="https://omics.genome-report.com/member" target="_blank">https://omics.genome-report.com/member</a>
+* <a href="https://omics.genome-report.com" target="_blank">https://omics.genome-report.com</a>
 
 
 ## Step 2. 파일 다운로드
 
-로그인 후 **SUPPORT -> Sample File Donwload** 메뉴를 선택해서 아래 4개의 파일을 다운로드 합니다.
+로그인 후 **SUPPORT -> <a href="https://omics.genome-report.com/down_file/sample" target="_blank">Sample File Donwload</a>** 메뉴를 선택해서 아래 4개의 파일을 다운로드 합니다.
 
 * Ctrl01_1.fq.gz
 * Ctrl01_2.fq.gz
