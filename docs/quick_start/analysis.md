@@ -5,7 +5,8 @@
 
 ## Step 1. 분석 파이프라인 선택
 
-왼쪽 매뉴에서 <a href="https://omics.genome-report.com/analysis" target="_blank"> ANALYSIS</a>를 선택합니다. 사용 가능한 파이프라인 목록이 보여집니다.  **유전자 발현량 및 발현량 차이 분석 (Tuxedo Protocol)** 파이프라인을 클릭합니다.
+왼쪽 매뉴에서 <a href="https://omics.genome-report.com/analysis" target="_blank"> ANALYSIS</a>를 선택합니다.<br>
+사용 가능한 파이프라인 목록이 보여집니다.  **유전자 발현량 및 발현량 차이 분석 (Tuxedo Protocol)** 파이프라인을 클릭합니다.
 
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/analysis_pipeline.jpg)
 
@@ -19,7 +20,9 @@
 
 ## Step 3. 샘플 선택
 
-샘플 항목에서 샘플 선택 버튼을 클릭합니다. 팝업창에서  **Ctrl01**, **Exp01** 샘플을 선택합니다.
+샘플 항목에서 샘플 선택 버튼을 클릭합니다. <br>
+팝업창에서 **uncategorized>>YYYY>>MM>>dd** 폴더를 선택합니다.<br>
+**Ctrl01**, **Exp01** 샘플을 선택합니다.
 
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/pipeline_sample_choose.jpg)
 
@@ -50,7 +53,7 @@
 
 ## Step 7. 선택 사항 확인 및 분석 승인
 
-선택이 완료되면 아래와 같은 화면이 됩니다. 내용을 최종 확인하고 승인 버튼을 클릭합니다. 분석 요청이 정상적으로 처리되면 프로젝트 페이지로 자동이동 합니다.
+선택이 완료되면 아래와 같은 화면이 됩니다. 내용을 최종 확인하고 승인 버튼을 클릭합니다.<br>분석 요청이 정상적으로 처리되면 프로젝트 페이지로 자동이동 합니다.
 
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/analysis_full_screen.png)
 
