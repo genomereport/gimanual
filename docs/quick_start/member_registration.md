@@ -4,7 +4,7 @@
 
 Genome report  <a href="https://omics.genome-report.com/member" target="_blank"> 회원 가입</a> 사이트를 방문하여 아래 항목을 입력하고 회원 가입 버튼을 클릭합니다.
 
-* 로그인아이디 : 이메일 입니다.
+* 이메일 : 이메일 입니다. 로그인시 아이디로 사용됩니다 (예: abs@genome-report.com)
 * 이름  : 고객의 이름 (예: 길동)
 * 성   : 고객의 성 (예: 홍)
 * 생년월 : 년월(YYYY-MM)만 입력합니다.
@@ -13,6 +13,7 @@ Genome report  <a href="https://omics.genome-report.com/member" target="_blank">
 
 회원가입 확인페이지의 안내문을 읽고 승인 버튼을 클릭합니다. 이때 회원 가입 승인 메일이 발송됩니다.
 
+![로그인화면](https://github.com/genomereport/gimanual/raw/master/docs/images/pipeline_title.jpg)
 
 ## Step 2. 가입 승인
 

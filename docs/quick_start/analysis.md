@@ -21,7 +21,7 @@
 ## Step 3. 샘플 선택
 
 샘플 항목에서 샘플 선택 버튼을 클릭합니다. <br>
-팝업창에서 **uncategorized>>YYYY>>MM>>dd** 폴더를 선택합니다.<br>
+팝업창에서 `uncategorized > YYYY > MM > dd` 폴더를 선택합니다.<br>
 **Ctrl01**, **Exp01** 샘플을 선택합니다.
 
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/pipeline_sample_choose.jpg)
@@ -46,7 +46,7 @@
 
 ## Step 6. 실험 디자인
 
-실험 디자인에서 Control 셀렉트 박스에서 **Ctrl01** SAMPLE을 선택하고,  Experimental 셀렉트 박스에서 **Exp01** SAMPLE을 하나 선택합니다.
+실험 디자인에서 Control 셀렉트 박스에서 `Ctrl01`을 선택하고,  Experimental 셀렉트 박스에서 `Exp01`을 하나 선택합니다.
 
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/pipeline_design.jpg)
 

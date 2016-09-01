@@ -1,0 +1,19 @@
+section a:visited { 
+    color: #2980b9;
+}
+
+strong {
+    color: #288a37;
+}
+
+kbd {
+    font-family: sans;
+    font-size: 90%;
+    background: #39b54a;
+    color : white;
+    padding: 1px 2px 1px 2px;
+}
+
+code {
+    font-size: 90%;
+}

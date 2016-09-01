@@ -18,8 +18,11 @@ pages:
     - Web File Uploader: Web_File_Uploader.md
 - Report :
     - RNA-seq : report/rnaseq_basic.md
+    - Files : report/file_and_directory.md
 - License : license.md
 
 theme: readthedocs
 markdown_extensions:
   - markdown.extensions.admonition
+extra_css: [extra.css]
+
