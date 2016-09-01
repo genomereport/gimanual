@@ -8,7 +8,7 @@ Genome report를 이용한 자료 분석하기 위해서는 생성된 샘플의 
 
 ## Step 1. Ctrl01 샘플 선택
 
-트리에서  `user > uncategorized > YYYY > MM > dd`를 선택합니다.
+왼쪽 상자에서 **user &#9654; uncategorized &#9654; YYYY &#9654; MM &#9654; dd**를 선택합니다.
 화면 오른쪽 상자에 앞서 등록한 2개의 샘플을 확인할 수 있습니다.
 
 !!!Note

@@ -13,28 +13,27 @@
 
 ## Step 2. 분석 요청서 작성
 
-분석정보의 제목과 설명을 입력합니다.
+분석 제목과 설명을 입력합니다.
 
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/pipeline_title.jpg)
 
 
 ## Step 3. 샘플 선택
 
-샘플 항목에서 샘플 선택 버튼을 클릭합니다. <br>
-팝업창에서 `uncategorized > YYYY > MM > dd` 폴더를 선택합니다.<br>
-**Ctrl01**, **Exp01** 샘플을 선택합니다.
+샘플 항목에서 샘플 선택 버튼을 클릭합니다.<br>
+팝업창에서 **uncategorized &#9654; YYYY &#9654; MM &#9654; dd** 폴더를 선택합니다.<br>
+**Ctrl01**, **Exp01** 샘플을 선택한 뒤 <kbd>승인</kbd>를 선택합니다.
 
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/pipeline_sample_choose.jpg)
 
+다음과 같이 선택된 샘플이 테이블 형식으로 보여집니다.
 
-선택된 샘플이 테이블 형식으로 보여집니다.
-
-  ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/analysis_sample.jpg)
+![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/analysis_sample.jpg)
 
 
 ## Step 4. 참조 유전체 선택
 
-참조유전체는 **Horse(EquCab2/Ensembl 84)**를 선택합니다.
+참조유전체는 `Horse(EquCab2/Ensembl 84)`를 선택합니다.
 
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/pipeline_reference.jpg)
 
@@ -46,14 +45,15 @@
 
 ## Step 6. 실험 디자인
 
-실험 디자인에서 Control 셀렉트 박스에서 `Ctrl01`을 선택하고,  Experimental 셀렉트 박스에서 `Exp01`을 하나 선택합니다.
+실험 디자인에서 Control 항목에 `Ctrl01`을 선택하고,  Experimental 항목에 `Exp01`을 선택합니다.
 
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/pipeline_design.jpg)
 
 
 ## Step 7. 선택 사항 확인 및 분석 승인
 
-선택이 완료되면 아래와 같은 화면이 됩니다. 내용을 최종 확인하고 승인 버튼을 클릭합니다.<br>분석 요청이 정상적으로 처리되면 프로젝트 페이지로 자동이동 합니다.
+선택이 완료되면 아래와 같은 화면이 됩니다. 내용을 최종 확인하고 <kbd>승인</kbd>을 클릭합니다.<br>
+분석 요청이 정상적으로 처리되면 프로젝트 페이지로 자동이동 합니다.
 
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/analysis_full_screen.png)
 
