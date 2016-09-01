@@ -12,6 +12,7 @@ pages:
     - 분석 시작 : quick_start/analysis.md
     - 분석 진행상황 확인 : quick_start/project_status.md
     - 분석 결과 보기 : quick_start/report.md
+    - 결과 받기 : quick_start/download.md
     - 끝 : quick_start/end.md
 - File Manager :
     - GRUploader: GR_File_Manager.md

@@ -30,5 +30,5 @@ Genome report에 로그인 후 <a href="https://omics.genome-report.com/project"
 
 상세보기 페이지 입니다. 상세보기 페이지에서는 분석에 대한 자세한 설명을 확인할 수 있으며, 분석 결과를 다운로드 받을 수 있습니다.
 
-![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/project_report_screen_2.png)
+![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/project_status_04.png)
 
