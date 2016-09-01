@@ -22,7 +22,7 @@ Genome report에 로그인 후 <a href="https://omics.genome-report.com/project"
 
   ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/project_report_screen_3.jpg)
 
-## Step 3. 상세 보기 및 다운로드 받기
+## Step 3. 상세 보기
 
 진행 상황에서 <kbd>상세보기</kbd>를 클릭하면 상세보기 페이지로 이동합니다.
 
