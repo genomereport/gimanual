@@ -11,9 +11,6 @@ Genome report를 이용한 자료 분석하기 위해서는 생성된 샘플의 
 왼쪽 상자에서 **user &#9654; uncategorized &#9654; YYYY &#9654; MM &#9654; dd**를 선택합니다.
 화면 오른쪽 상자에 앞서 등록한 2개의 샘플을 확인할 수 있습니다.
 
-!!!Note
-    YYYY, MM, dd는 샘플 생성 날짜를 의미합니다.<br>예를 들어 2016.9.1에 샘플을 등록했다면 경로는 user>>uncategorized>>2016>>09>>10 이 됩니다.
-
 
 ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/sample_feature_screen1.jpg)
 
