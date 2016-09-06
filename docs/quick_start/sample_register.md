@@ -28,7 +28,7 @@
         샘플명은 파일명을 이용하여 프로그램에서 부여하며, 사용자가 원하는 이름으로 변경할 수 있습니다.
 
 
-![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/sample_screen_1.jpg)
+![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/sample_forward.jpg)
 
 
 ## Step 3. 자동화를 통한 Exp01 샘플 등록
