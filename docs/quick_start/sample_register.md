@@ -28,7 +28,7 @@
         샘플명은 파일명을 이용하여 프로그램에서 부여하며, 사용자가 원하는 이름으로 변경할 수 있습니다.
 
 
-![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/sample_forward.jpg)
+![화면](../images/sample_forward.jpg)
 
 
 ## Step 3. 자동화를 통한 Exp01 샘플 등록
@@ -40,7 +40,7 @@
 !!!tip "Tip"
     자동화 이용시 "샘플명은 필수 입력입니다" 라는 메세지가 나오면 사용자가 직접 "샘플명"을 입력하면 됩니다.
 
-![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/sample_wizard.jpg)
+![화면](../images/sample_wizard.jpg)
 
 
 ## Step 4. 샘플 등록 확인
@@ -50,5 +50,5 @@
 1. 등록된 2개의 샘플이 나타나는 것을 확인합니다.
 
 
-![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/sample_feature_screen1.jpg)
+![화면](../images/sample_feature_screen1.jpg)
 

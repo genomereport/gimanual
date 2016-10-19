@@ -12,7 +12,7 @@ Genome report를 이용한 자료 분석하기 위해서는 생성된 샘플의 
 화면 오른쪽 상자에 앞서 등록한 2개의 샘플을 확인할 수 있습니다.
 
 
-![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/sample_feature_screen1.jpg)
+![화면](../images/sample_feature_screen1.jpg)
 
 ## Step 2. 샘플 특성 설정
 
@@ -25,7 +25,7 @@ Genome report를 이용한 자료 분석하기 위해서는 생성된 샘플의 
 * 라이브러리 유형 : mRNA-seq
 * 라이브러리 : TruSeq RNA Library Prep Kit
 
-![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/sample_feature_screen2.jpg)
+![화면](../images/sample_feature_screen2.jpg)
 
 
 ## Step 3. Exp01 샘플 특성 선택
@@ -38,7 +38,7 @@ Genome report를 이용한 자료 분석하기 위해서는 생성된 샘플의 
 Ctrl01과 Exp01 샘플특성 설정이 끝나면, 1단계에서 보였던 화면의 샘플기능 항목에 설정한 특징들이 나타나게 됩니다.
 이 내용이 맞는지와 두 샘플이 동일한지 확인합니다.
 
- ![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/sample_feature_screen3.jpg)
+ ![화면](../images/sample_feature_screen3.jpg)
 
 
 

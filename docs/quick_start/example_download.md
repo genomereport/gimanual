@@ -24,7 +24,7 @@
     다운로드 파일들은 SAMPLE 생성시 사용됩니다. 다운로드 폴더를 기억하십시요.
 
 
-![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/tutorial_file_download.jpg)
+![화면](../images/tutorial_file_download.jpg)
 
 !!!tip "TIP" 
     4개 파일 모두를 다운로드 하면 분석에 필요한 포인트를 자동으로 지급합니다. 포인트는 단 한번만 지급됩니다.

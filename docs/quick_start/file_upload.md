@@ -16,7 +16,7 @@ GRUploader는 Genome report 에서 사용하는 전용 파일 업로드 프로�
 다운로드 페이지에는 각 운영체제에 해당하는 다운로드 프로그램을 받을 수 있는 링크가 준비되어 있습니다.
 각 운영체제에 해당하는 실행파일을 다운로드 받습니다. (윈도우는 왼쪽, OSX와 리눅스는 오른쪽을 선택하시면 됩니다.)
 
-![화면](https://github.com/genomereport/gimanual/raw/master/docs/images/screen_3.jpg)
+![화면](../images/screen_3.jpg)
 
 
 
