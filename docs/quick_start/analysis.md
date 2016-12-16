@@ -57,7 +57,6 @@
 
 ![화면](../images/analysis_full_screen.png)
 
-
 !!!tip "Tip"
     프로젝트가 완료되면 회원 가입시 등록된 메일주소로 프로젝트 진행 상황이 메일이 발송됩니다.
 
