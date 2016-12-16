@@ -33,7 +33,7 @@
 
 ## Step 4. 참조 유전체 선택
 
-참조유전체는 `Horse(EquCab2/Ensembl 84)`를 선택합니다.
+참조유전체는 `Horse(EquCab2/Ensembl 85)`를 선택합니다.
 
 ![화면](../images/pipeline_reference.jpg)
 
