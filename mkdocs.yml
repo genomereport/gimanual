@@ -15,10 +15,10 @@ pages:
     - 결과 받기 : quick_start/download.md
     - 끝 : quick_start/end.md
 - File Manager :
-    - GRUploader: GR_File_Manager.md
-    - Sample File List: Sample_File_List.md
-    - Resource: Resource_Download.md
-    - Web File Uploader: Web_File_Uploader.md
+    - GRUploader: gr_file_manager.md
+    - Sample File List: sample_file_list.md
+    - Resource: resource_download.md
+    - Web File Uploader: web_file_uploader.md
 - Report :
     - RNA-seq : report/rnaseq_basic.md
     - Files : report/file_and_directory.md
