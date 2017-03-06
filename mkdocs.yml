@@ -16,6 +16,8 @@ pages:
     - 끝 : quick_start/end.md
 - File Manager :
     - GRUploader: GR_File_Manager.md
+    - Sample File List: Sample_File_list.md
+    - Resource: Resource_list.md
     - Web File Uploader: Web_File_Uploader.md
 - Report :
     - RNA-seq : report/rnaseq_basic.md
