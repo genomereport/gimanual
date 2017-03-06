@@ -1,4 +1,4 @@
-# Resource
+# Resource Download
 
 ## 기능
 
@@ -8,7 +8,7 @@
 
 * 왼쪽 트리: Project와 Sample 리소스를 보여줍니다
 * 오른쪽 테이블: 선택한 디렉토리의 하위 폴더 및 파일 목록입니다.
-    * Icon : 폴더 여부입니다.
+    * Icon : 폴더 또는 파일를 구분하는 아이콘을 보여줍니다.
     * File Name : 파일명입니다.
     * Description : 리소스에 대한 설명입니다.
     * Last Modified : 폴더 또는 파일의 마지막 수정 일자입니다.
