@@ -17,7 +17,7 @@ pages:
 - File Manager :
     - GRUploader: GR_File_Manager.md
     - Sample File List: Sample_File_List.md
-    - Resource: Resource_list.md
+    - Resource: Resource_List.md
     - Web File Uploader: Web_File_Uploader.md
 - Report :
     - RNA-seq : report/rnaseq_basic.md
